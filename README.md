@@ -25,7 +25,7 @@ This HTML code defines a webpage displaying a QR code component with accompanyin
 ### Links
 
 - Solution URL: [https://github.com/SONALI-NEGI/QR-code-component-solution.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [[Add live site URL here](https://sonali-negi.github.io/QR-code-component-solution/)]
 
 ## My Process
 
