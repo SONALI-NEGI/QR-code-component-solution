@@ -1,7 +1,7 @@
 :root {
   --page-bg: hsl(212, 45%, 89%);
   --card-bg: hsl(0, 0%, 100%);
-  --p-color: hsl(220, 15%, 55%);
+  --p-color: #7d889e;
 }
 
 body {
@@ -13,32 +13,36 @@ body {
 }
 
 .card {
-  width: 313px;
-  height: 445px;
+  width: 320px;
+  height: 497px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  padding: 1rem;
   background-color: var(--card-bg);
   border-radius: 1rem;
 }
 
 .QR-img img {
-  width: 311px;
-  height: 308px;
+  width: 288px;
+  height: 288px;
   border-radius: 0.7rem;
+  margin: 1rem;
 }
 
+.QR-content {
+  margin: 1rem;
+  width: 288px;
+  height: 129px;
+}
 .QR-content h1 {
-  font-size: 1.3rem;
+  font-size: 1.375rem;
   font-weight: 700;
-  color: hsl(218, 44%, 22%);
+  color: #1f314f;
 }
 .QR-content p {
-  font-size: 0.9rem;
+  font-size: 0.968rem;
   color: var(--p-color);
- 
 }
 
 footer {
