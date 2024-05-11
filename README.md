@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This HTML code defines a webpage displaying a QR code component with accompanying text, styled using CSS. It's responsive and uses Google Fonts.
 
 ### Screenshot
-![Desktop](/design/desktop-design.jpg)
+![Desktop](/design/desktop-preview.jpg)
 
 ### Links
 
